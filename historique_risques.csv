@@ -1,0 +1,54 @@
+Date,Participants,Type,Zone,Moment,Historique,Score,Ville
+2025-05-20 21:39:13,500-5000,Sportif,Urbaine dense,Nuit,Faible,10.0,
+2025-05-20 21:45:59,>5000,Festif,Sensible,Jour,Moyen,10.0,
+2025-05-20 23:05:51,<100,Religieux,Sensible,Nuit,Aucun,9.0,Marrakech
+2025-05-20 23:15:25,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:15:27,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:15:28,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:15:34,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:15:35,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:05,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:06,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:06,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:07,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:07,100-500,Festif,Calme,Jour,Aucun,6.0,Agadir
+2025-05-20 23:16:18,100-500,Festif,Urbaine dense,Jour,Aucun,7.0,Agadir
+2025-05-20 23:16:18,100-500,Festif,Urbaine dense,Jour,Aucun,7.0,Agadir
+2025-05-20 23:16:22,100-500,Festif,Urbaine dense,Jour,Aucun,9.0,Fès
+2025-05-20 23:16:41,100-500,Festif,Calme,Jour,Aucun,8.0,Fès
+2025-05-20 23:16:53,100-500,Festif,Calme,Jour,Aucun,7.0,Tanger
+2025-05-20 23:17:00,<100,Festif,Calme,Jour,Aucun,6.0,Tanger
+2025-05-20 23:17:06,500-5000,Festif,Calme,Jour,Aucun,8.0,Tanger
+2025-05-20 23:17:07,500-5000,Festif,Calme,Jour,Aucun,8.0,Tanger
+2025-05-20 23:17:11,500-5000,Festif,Calme,Nuit,Aucun,10.0,Tanger
+2025-05-20 23:17:15,500-5000,Festif,Calme,Nuit,Faible,11.0,Tanger
+2025-05-20 23:17:17,500-5000,Festif,Calme,Nuit,Moyen,12.0,Tanger
+2025-05-20 23:17:21,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:17:21,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:17:32,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:17:32,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:17:33,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:17:33,500-5000,Festif,Calme,Nuit,Élevé,13.0,Tanger
+2025-05-20 23:51:39,500-5000,Politique,,Nuit,Moyen,13.0,Tanger
+2025-05-20 23:51:39,500-5000,Politique,,Nuit,Moyen,13.0,Tanger
+2025-05-20 23:51:45,500-5000,Politique,,Nuit,Moyen,13.0,Tanger
+2025-05-20 23:52:41,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:01,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:05,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:07,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:09,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:11,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:11,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:13,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:16,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:17,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:19,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:20,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:23,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-20 23:53:27,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-21 00:02:03,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-21 00:02:11,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-21 00:02:12,>5000,Religieux,,Nuit,Élevé,15.0,Fès
+2025-05-21 00:46:10,500-5000,Religieux,,Nuit,Aucun,11.5,Casablanca
+2025-05-21 00:46:11,500-5000,Religieux,,Nuit,Aucun,11.5,Casablanca
+2025-05-21 00:46:19,500-5000,Religieux,,Nuit,Aucun,11.5,Casablanca
